@@ -1,8 +1,8 @@
 # Hi, I'm Gregory Werner 👋
 
-I'm a Software Engineer developing games and developer tools.
+I'm a Software Engineer with a background in game development and systems programming.
 
-I enjoy building systems that emphasize clean architecture, maintainability, and performance—from gameplay systems and editor tools to rendering and graphics.
+I enjoy designing and building software that emphasizes clean architecture, maintainability, and performance. My interests include software systems, developer tools, automation, and graphics programming.
 
 ### Current Focus
 
