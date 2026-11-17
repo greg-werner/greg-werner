@@ -6,7 +6,7 @@ I enjoy designing and building software that emphasizes clean architecture, main
 
 ### Current Focus
 
-- Looking for work, both freelance and full-time.
+- Working on a personal project.
 - Expanding my C++ knowledge.
 
 ### Technologies
